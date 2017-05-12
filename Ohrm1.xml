@@ -1,0 +1,11 @@
+<suite name="demosuite2">
+
+	<test name="demotest2">
+
+		<classes>
+			<class name = "com.tng.basics.OhrmAddEmployee" />
+		</classes>
+
+	</test>
+
+</suite>
